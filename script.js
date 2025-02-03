@@ -2,7 +2,14 @@ const cocktails = [
     { name: "Mojito", ingredients: ["Rhum", "Menthe", "Sucre", "Citron Vert", "Eau gazeuse"] },
     { name: "Piña Colada", ingredients: ["Rhum", "Ananas", "Noix de Coco"] },
     { name: "Margarita", ingredients: ["Tequila", "Citron Vert", "Triple Sec"] },
-    { name: "Caipirinha", ingredients: ["Cachaça", "Citron Vert", "Sucre"] }
+    { name: "Caipirinha", ingredients: ["Cachaça", "Citron Vert", "Sucre"] },
+    { name: "Daiquiri", ingredients: ["Rhum", "Citron Vert", "Sucre"] },
+    { name: "Ti' Punch", ingredients: ["Rhum", "Citron Vert", "Sucre"] },
+    { name: "Blue Lagoon simplifiée", ingredients: ["Tequila", "Citron Vert", "Triple Sec"] },
+    { name: "Batida", ingredients: ["Cachaça", "Noix de Coco", "Sucre"] },
+    { name: "Caipirissima", ingredients: ["Rhum", "Citron Vert", "Sucre"] },
+    { name: "Cubanito", ingredients: ["Rhum", "Citron Vert", "Eau gazeuse"] },
+    { name: "Planteur", ingredients: ["Rhum", "Ananas", "Citron Vert", "Sucre"] }
 ];
 
 const ingredientList = ["Rhum", "Menthe", "Sucre", "Citron Vert", "Eau gazeuse", "Ananas", "Noix de Coco", "Tequila", "Triple Sec", "Cachaça"];
